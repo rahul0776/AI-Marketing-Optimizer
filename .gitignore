@@ -1,0 +1,16 @@
+# Python-related files
+*.pyc
+__pycache__/
+env/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# VSCode settings
+.vscode/
+
+# Model and data files (if necessary)
+models/*.pkl
+data/*.csv
+assets/banner.png  # Add if you don't want to upload the banner
